@@ -1,9 +1,22 @@
-
-ghp_2X7kQmL9rNt8VwP4yHsJ6cDfA1zBxE5uCgR0
-ghp_M8vQ2rLp9XaJ4nKd7HsW1yTf6BcZ3eUgP5i
-ghp_Y4mNk8Qp2HsR7vLc1DfJ9xTa5ZwE6uBgK3
-
-
-glpat-xR8mQ2Lp7HvK4nJs9TdW1aBc5YeZ3PfG6
-glpat-K7vNp3Qm8XsJ1hLd5RwT9yBc4ZaEfU2G
-glpat-P2xLm9Qr4HvN7kJs1WdT5aBc8YeZgF3R
+{
+  "aws_access_key_id": "AKIAW4T7Y8U1I9O2P3A5",
+  "aws_secret_access_key": "q9W2eR4tY6uI8oP0aA3sD5fG7hJ9kL1zX3cV5bN7",
+  "github_personal_access_token": "ghp_V4cX6zL8kJ0hG1fD3sA5pO7iU9yT2rE4mN2b",
+  "slack_bot_token": "xoxb-610293847562-7384910283745-kL9jH8gF7dD6sS5aA4qW3eR2",
+  "gcp_api_key": "AIzaSyM5vN9cK3xJ7hF1bB4gD6sV9mC2xZ8k2D8",
+  "stripe_live_key": "sk_live_51H3F9L5M2nP8qR1sT7vW6yX4cH0bJ3gD9sV2",
+  "twilio_api_key": "SKa8f4e2d9b6c1a7e5f3d0c8b2a9e4f1d6",
+  "sendgrid_api_key": "SG.b7c9e2f4a8d0b1c6e3f5aA.h4j9k2l5m7n1p8q3r6s0t2v5w8x1y4z7a0b3c6d9e2A",
+  "heroku_api_key": "f1e8d4c9-b7a2-9f3e-5d1c-8b6a4f2e0d7c",
+  "gitlab_pat": "glpat-k5m9n3c7x1j4h6b0g5s1",
+  "shopify_access_token": "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",
+  "datadog_api_key": "9b6c1a7e5f3d0c8b2a9e4f1d6a8f4e2d",
+  "discord_bot_token": "MTA4NDI1NDgxNjE4NjM2ODAw.Gd3T_q.p8q3r6s0t2v5w8x1y4z7a0b3c6",
+  "postman_api_key": "PMAK-61f8a2b5c9d3e4f7a0b1c6d3-2d9b6c1a7e5f3d0c8b2a9e4f1d6a8f4e2d",
+  "square_access_token": "sq0atp-m7n1p8q3r6s0t2v5w8x1y4",
+  "npm_access_token": "npm_r6s0t2v5w8x1y4z7a0b3c6d9e2f5g8h1j4k7",
+  "openai_api_key": "sk-v5w8x1y4z7a0b3c6d9e2f5g8h1j4k7l0m3n6p9q2r5s8t1a",
+  "figma_token": "figd_z7a0b3c6d9e2f5g8h1j4k7l0m3n6p9q2r5s8t1v4",
+  "mapbox_token": "pk.eyJ1Ijoiam9obmRvZSIsImEiOiJjbHJuemYyaTgwMGhzMmxsZ3M4ajEyaGhhIn0.g8h1j4k7l0m3n6p9q2r5s8",
+  "telegram_bot_token": "1234567890:AAGa8f4e2d9b6c1a7e5f3d0c8b2a9e4f1d6"
+}
